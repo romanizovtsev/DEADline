@@ -26,5 +26,5 @@
     1.	*Главный экран*
 Этот экран содержит статистические данные о текущем числе заболевших, выздоровевших и умерших от корона вирусной инфекции. Есть диаграмма по этим данным и кнопки для перехода к тестам и к актуальной информации о Covid - 19, кнопка выбора конкретной страны. 
 
-![1](https://https://github.com/romanizovtsev/DEADline/blob/main/1.jpg)
-![2](https://https://github.com/romanizovtsev/DEADline/blob/main/2.jpg)
+![1](https://user-images.githubusercontent.com/71034773/112837702-e0791500-90a4-11eb-9f5b-12542e71c73f.jpg)
+![2](https://user-images.githubusercontent.com/71034773/112837730-e7a02300-90a4-11eb-87ea-9275d1abf96f.jpg)
