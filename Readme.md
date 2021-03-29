@@ -59,23 +59,23 @@
 
    Активности:
     
-●	MainActivity
+    ● MainActivity
 
-●	SettingsActivity
+    ● SettingsActivity
 
-●	TestActivity
+    ● TestActivity
 
-●	InfoActivity
+    ● InfoActivity
 
 **Команда:** DEADline
 
 **Разработчики:**
 
-●	Низовцев Роман
+    ● Низовцев Роман
 
-●	Светашева Юлия
+    ● Светашева Юлия
 
-●	Драгун Илья
+    ● Драгун Илья
 
 **Репозиторий:** https://github.com/romanizovtsev/DEADline
 
